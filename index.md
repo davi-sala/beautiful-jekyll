@@ -4,9 +4,7 @@ layout: page
 
 <div class="row">
     <div class="col-md-5 col-md-offset-0 vcenter idxHdr">
-      <!--<div style="font-size: 2em; color: #000000; font-weight: bold; padding-bottom: 0.3em;">-->
-		<h2>Davi Alberto Sala</h2>
-	  <!--#</div>-->
+	  <h2>Davi Alberto Sala</h2>
       <div style="font-size: 1.2em;">
         Prospective Ph.D. Student
       </div>
