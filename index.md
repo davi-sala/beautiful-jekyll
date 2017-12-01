@@ -3,7 +3,7 @@ layout: page
 ---
 
 <div class="row">
-    <div class="col-md-6 col-md-offset-1 vcenter idxHdr">
+    <div class="col-md-5 col-md-offset-0 vcenter idxHdr">
       <div style="font-size: 2em; color: #000000; font-weight: bold; padding-bottom: 0.3em;">Davi Alberto Sala</div>
       <div style="font-size: 1.2em;">
         Prospective Ph.D. Student
