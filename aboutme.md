@@ -1,9 +1,8 @@
 ---
-layout: page
-title: About me
----
+layout: minimal
+title: Davi Sala
 
-My name is Davi Sala. I have the following qualities:
+---
 
 - I'm in love with machine learning, data science, games and robots
 - I rock a great mustache
