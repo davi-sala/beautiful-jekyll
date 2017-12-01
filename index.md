@@ -1,9 +1,8 @@
 ---
-layout: page
-title: About me
+layout: minimal
+title: Davi Sala
+subtitle: About me
 ---
-
-My name is Davi Sala. I have the following qualities:
 
 - I'm in love with machine learning, data science, games and robots
 - I rock a great mustache
@@ -28,7 +27,5 @@ This work resulted in a paper published at the IEEE I2MTC Conference [10.1109/I2
 
 
 My BsC of Computer Engineering was completed in 2015 at the State University of Rio Grande do Sul ([UERGS](www.uergs.edu.br/)).
-During undergraduation I participated on several projects conducted within the university, all of them using Machine Learning and Image Processing, where my passion began. 
-
-
-
+During undergraduation I participated on several projects conducted within the university, 
+all of them using Machine Learning and Image Processing, that's where my passion into ML and CV began. 
