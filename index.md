@@ -32,13 +32,13 @@ layout: page
 </div>
 
 
-<h2>about me</h2>
+### about me
 
-- I'm in love with machine learning, data science, games and robots
+- Passionate about with machine learning, data science, games and robots
 - I rock a great mustache
 - Homebrewer by hobby
 
-<h2> work experience </h2>
+### work experience 
 
 **jan-curr.17** - Software developer at [_PixForce_](pixforce.com.br), creating Machine Learning, 
 data analysis and image processing solutions to UAV imagery.
@@ -48,7 +48,7 @@ Mainly using Python ML tools with the Tensorflow backend and OpenCV for computer
 Teaching the classes of _Applied Artificial Intelligence_, _Introduction to Robotics_, and _Embedded Systems_.
 
 
-<h2> education </h2>
+### education 
 
 In 2017 I finished my Masters in Electrical Engineering, in the area of _Control and Automation_ at the 
 Federal University of Rio Grande do Sul ([UFRGS](www.ufrgs.br/english)), where I developted a Liquid State Machine system for Z axis positioning control of the endpoint (tool) used by the BAXTER Robot while performing a trajectory on the X and Y axis.
