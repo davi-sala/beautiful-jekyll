@@ -8,10 +8,10 @@ layout: page
       <div style="font-size: 1.2em;">
         Prospective Ph.D. Student
       </div>
-      <div style="font-size: 1.2em">
+      <div style="font-size: 1.0em; color: #000000">
         <a href="https://www.ugent.be/ea/idlab/en">CS @ IDLab - imec</a>
       </div>
-      <div style="font-size: 1.2em">
+      <div style="font-size: 1.0em; color: #000000">
         <a href="https://www.ugent.be/en">Ghent University</a>
       </div>
       <br>
@@ -36,7 +36,7 @@ layout: page
 
 - I'm in love with machine learning, data science, games and robots
 - I rock a great mustache
-- I'm a homebrewer by hobby
+- Homebrewer by hobby
 
 <h2> work experience </h2>
 
