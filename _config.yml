@@ -6,7 +6,7 @@
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
 url: "http://davi-sala.github.io"
 baseurl: ""
-
+paginate_path: "/blog/page:num/"
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
 #baseurl: "/projectname"
@@ -24,7 +24,7 @@ description: Machine Learning and Data Science Stuff
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Blog: "/blog/"
+  Blog: "/blog/index.html"
   Projects:
     - LSM Control: "https://github.com/davi-sala/I2MTC2017-LSMFusion"
   Resources: "ml_resources"
