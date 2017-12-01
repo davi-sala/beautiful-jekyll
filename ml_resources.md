@@ -16,8 +16,10 @@ Note that _none_ of this material is mine, this is just a compedium of a lot of 
 
 ### Object Segmentation
  - Item
- 
- 
+
+### Feature Extraction and Augmentation
+ - Deep Image Prior: [Paper](https://sites.skoltech.ru/app/data/uploads/sites/25/2017/11/deep_image_prior.pdf) [Site](https://dmitryulyanov.github.io/deep_image_prior) [Code](https://github.com/DmitryUlyanov/deep-image-prior)
+
 ## Deep Learning
 So deep, much wow
 
