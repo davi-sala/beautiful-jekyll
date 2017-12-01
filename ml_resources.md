@@ -4,8 +4,8 @@ title: Resources
 subtitle: Papers, sample code and important things.
 ---
 
-I'll just keep here a collection of links to content that I judge significant for me to re-use(visit) some time in the future. 
-Most of these content comes from the great community at [r/MachineLearning](www.reddit.com/r/MachineLearning), so make sure to subscribe there for some great discussions on the subject.
+I'll just keep here a collection of links to content that I judge significant at the moment or that I might use some time in the future. 
+Most of these content comes from the great community at [r/MachineLearning](www.reddit.com/r/MachineLearning), so make sure to subscribe there for some discussions on Machine Learning.
 
 Note that _none_ of this material is mine, this is just a compedium of a lot of resources that I believe might be useful someday, and hopefully, can help someone aswell. All rights and kudos to the respective authors for the great content.
 
