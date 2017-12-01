@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: page
 title: Davi Sala
 subtitle: About me
 ---
