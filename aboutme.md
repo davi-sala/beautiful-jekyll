@@ -9,7 +9,6 @@ My name is Davi Sala. I have the following qualities:
 - I rock a great mustache
 - I'm a homebrewer by hobby
 
-What else do you need?
 
 ### work experience
 
@@ -19,6 +18,7 @@ Mainly using Python ML tools with the Tensorflow backend and OpenCV for computer
 
 **feb-dec.17** - Professor at [_SATC University_](www.faculdade.satc.edu.br/), located in Criciúma, SC (Brazil).
 Teaching the classes of _Applied Artificial Intelligence_, _Introduction to Robotics_, and _Embedded Systems_.
+
 
 ### education
 
