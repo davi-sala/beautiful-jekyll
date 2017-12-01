@@ -9,10 +9,10 @@ layout: page
         Prospective Ph.D. Student
       </div>
       <div style="font-size: 1.0em; color: #000000">
-        <a href="https://www.ugent.be/ea/idlab/en" target="_blank" style="color: black; text-decoration: none;">CS @ IDLab - imec</a>
+        <a href="https://www.ugent.be/ea/idlab/en" style="color: black;">CS @ IDLab - imec</a>
       </div>
       <div style="font-size: 1.0em; color: #000000">
-        <a href="https://www.ugent.be/en" target="_blank" style="color: black; text-decoration: none;">Ghent University</a>
+        <a href="https://www.ugent.be/en" style="color: black; ">Ghent University</a>
       </div>
       <br>
 
