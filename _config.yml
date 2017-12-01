@@ -24,7 +24,7 @@ description: Machine Learning and Data Science Stuff
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Blog: "davi-sala.github.io//blog/index.html"
+  Blog: "blog/index.html"
   Projects:
     - LSM Control: "https://github.com/davi-sala/I2MTC2017-LSMFusion"
   Resources: "ml_resources"
